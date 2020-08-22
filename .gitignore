@@ -40,3 +40,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/lab00/target/
