@@ -10,13 +10,10 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
@@ -36,6 +33,7 @@ public class ModelCsv implements Model {
 	PrintWriter pw;
 		
 	try {
+            // Contructor disponível a partir da versão 11 do Java
             fw = new FileWriter("files/produtos.csv", StandardCharsets.UTF_8, true);
             bw = new BufferedWriter(fw);
             pw = new PrintWriter(bw, true);
