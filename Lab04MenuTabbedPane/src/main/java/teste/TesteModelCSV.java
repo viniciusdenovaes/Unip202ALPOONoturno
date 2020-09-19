@@ -18,12 +18,9 @@ public class TesteModelCSV {
     
     public static void main(String[] args) {
         ModelCsv model = new ModelCsv();
-//        Collection<Produto> produtos = new ArrayList<>();
-//        produtos.add(new Produto(1, "Arroz", 10));
-//        produtos.add(new Produto(2, "Feijão", 5));
-//        produtos.add(new Produto(3, "Açúcar", 4.5));
         
-//        model.saveProdutos(produtos);
+        // model.saveProduto(new Produto(5, "Cereal", 9.4));
+        
         Collection<Produto> produtos = model.loadProdutos();
         for(Produto produto: produtos){
             System.out.println(produto);

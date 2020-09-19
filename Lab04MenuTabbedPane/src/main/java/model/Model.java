@@ -14,7 +14,7 @@ import java.util.Collection;
  */
 public interface Model {
     
-    public void saveProdutos(Collection<Produto> produtos);
+    public void saveProduto(Produto produto);
     public Collection<Produto> loadProdutos();
     
 }
