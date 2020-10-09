@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="mavenpackage.AppTest" time="0.34" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql\target\test-classes;c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql\target\classes;C:\Users\herma\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\herma\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\herma\.m2\repository\org\postgresql\postgresql\42.2.16\postgresql-42.2.16.jar;C:\Users\herma\.m2\repository\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\JAVA\jdk-14.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\herma\AppData\Local\Temp\surefire3673111450737777987\surefirebooter4194266620219571878.jar C:\Users\herma\AppData\Local\Temp\surefire3673111450737777987 2020-09-24T16-44-04_253-jvmRun1 surefire1861541047676635394tmp surefire_03972992935347403272tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql\target\test-classes;c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql\target\classes;C:\Users\herma\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\herma\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\herma\.m2\repository\org\postgresql\postgresql\42.2.16\postgresql-42.2.16.jar;C:\Users\herma\.m2\repository\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\herma"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\JAVA\jdk-14.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\herma\AppData\Local\Temp\surefire3673111450737777987\surefirebooter4194266620219571878.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="user.name" value="hermano"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\herma\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\herma\AppData\Local\Temp\"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="user.dir" value="c:\Users\herma\OneDrive\Documentos\Desktop\workspace\java\PostgreSQL\postgresql"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\JAVA\jdk-14.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\cecil\AppData\Local\Programs\Python\Python37-32;C:\Users\cecil\AppData\Roaming\Python\Python37\Scripts;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\PostgreSQL\12\bin;C:\Users\herma\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\herma\AppData\Local\Programs\Python\Python37-32\;C:\Users\herma\AppData\Local\Microsoft\WindowsApps;C:\Users\herma\AppData\Roaming\npm;C:\Users\herma\AppData\Local\Android\Sdk\tools;C:\Users\herma\AppData\Local\Android\Sdk\platform-tools;C:\Users\herma\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\herma\AppData\Local\Yarn\bin;C:\intelFPGA_lite\19.1\modelsim_ase\win32aloem;C:\JAVA\jdk-14.0.2\bin;C:\JAVA\apache-maven-3.6.3\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="mavenpackage.AppTest" time="0.006"/>
+</testsuite>
