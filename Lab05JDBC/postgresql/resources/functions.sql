@@ -1,5 +1,5 @@
 
-create or replace function get_expensive_books(p_price float)
+create or replace function get_livros_caros(p_price float)
 	returns refcursor
 	language plpgsql
 as
